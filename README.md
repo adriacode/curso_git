@@ -9,10 +9,6 @@ ao final do curso e Visual Studio Code. É grátis!
 
 Segue o link: https://www.youtube.com/teomewhy
 
-Se liga na agenda do canal Teo Me Why:
-https://teomewhy.org/schedule
-
-
 Pessoas Participantes:
 - Adria Freitas
 - Téo
