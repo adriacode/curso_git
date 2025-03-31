@@ -9,6 +9,8 @@ ao final do curso e Visual Studio Code. É grátis!
 
 Segue o link: https://www.youtube.com/teomewhy
 
+Confira a agenda dos cursos do canal: http://teomewhy.org/schedule
+
 Pessoas Participantes:
 - Adria Freitas
 - Téo
