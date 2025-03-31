@@ -5,8 +5,10 @@ trabalhar com versionamento de código e
 repositórios remotos com GitHub.
 
 Além disso, vamos trabalhar com GitFlow 
-ao final do curso e Visual Studio Code.
+ao final do curso e Visual Studio Code. É grátis!
+
+Segue o link: https://www.youtube.com/teomewhy
 
 Pessoas Participantes:
-
--Téo
+- Adria Freitas
+- Téo
